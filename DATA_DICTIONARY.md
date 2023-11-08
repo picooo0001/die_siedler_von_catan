@@ -6,3 +6,4 @@
 |Spieler|   am Spiel teilnehmende Spieler|  -jeder Spieler hat einen Kartenstand und einen Siegpunktestand<br />| benötigt um Runde bzw. Spiel zu spielen|   1-4 |
 |Kartenstand|   Anzahl Spielerkarten eines Spielers           	|  -setzt sich aus Anzahl der Ressourcen ubnd Entwicklungskarten zusammen<br />|-um "Liquidität" eines Spielers darzustellen|   1-130      	|
 |Spielfiguren| -haben eine Form und eine Farbe|  -rote, orangene, blaue, weiße Spielfiguren(Straßen, Städte, Siedlungen)<br />-schwarze Ritterfigur| benötigt um Runde bzw. Spiel zu spielen|  -4 Städte, 5 Siedlungen, 15 Straßen |
+|Spielfeld|   -Anordnung der Hexagone und Hafenkarten <br/> |  -besteht aus Lehm, Holz, Wolle, Erz, Getreide und Wüstenhexagon und Zuordnung einer Augenzahl der 2 Würfeln<br/>-und aus Hafenkarten mit Rohstoffbezeichnung und Tauschverhältniss| -Zuordnung Augenzahl und Rohstoff <br/>-Zuordnung Standort Siedlungen und Städten|   1 |
