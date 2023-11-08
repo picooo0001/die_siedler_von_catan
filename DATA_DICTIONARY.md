@@ -1,1 +1,8 @@
-
+| Name         	| Beschreibung 	| Eigenschaften                                                                                        	| Verwendung 	| Instanzen 	|
+|--------------	|--------------	|------------------------------------------------------------------------------------------------------	|------------	|-----------	|
+| Spielerkarte 	|    -hat eine ID, Farbe, Aktion, Bild <br/> -kann gezogen, gehalten und ausgespielt werden          	| -Rohstoffkarte(Lehm, Holz, Wolle, Erz, Getreide) <br />-Entwicklungskarten<br />&emsp;-Ritterkarte<br />&emsp;-Fortschrittkarte(Straßenbau, <br />&emsp;Erfindung, Monopol)<br />&emsp;-Siegpunktkarte|Rohstoffkarten werden zum Kaufen und Tauschen benötigt|-95 Rohstoffkarten<br />-25 Entwicklungskarten|
+|Spielerzug           	|   ein vollständiger Zug eines Spielers         	|  -muss immer aus der Aktion "würfeln" bestehen<br />- kann noch aus den Aktionen "tauschen", "kaufen", "bauen" und "Entwicklungskarte ausspielen" bestehen|      -Fortschritt(Siegpunkte)<br />-Gewinn von Ressourcenkarten      	|   0-unendlich möglich      	|
+|Runde|     besteht aus 3-4 Spielerzügen, je nach teilnehmenden Spielern       	|  -jeder Spieler spielt seinen Zug in der vorher fetsgelegten REihenfolge<br />| Spiel besteht aus Runden|0-unendlich möglich    	|
+|Spieler|   am Spiel teilnehmende Spieler|  -jeder Spieler hat einen Kartenstand und einen Siegpunktestand<br />| benötigt um Runde bzw. Spiel zu spielen|   1-4 |
+|Kartenstand|   Anzahl Spielerkarten eines Spielers           	|  -setzt sich aus Anzahl der Ressourcen ubnd Entwicklungskarten zusammen<br />|-um "Liquidität" eines Spielers darzustellen|   1-130      	|
+|Spielfiguren| -haben eine Form und eine Farbe|  -rote, orangene, blaue, weiße Spiel<br />| benötigt um Runde bzw. Spiel zu spielen|   1-4 |
