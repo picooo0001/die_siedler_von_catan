@@ -5,4 +5,4 @@
 |Runde|     besteht aus 3-4 Spielerzügen, je nach teilnehmenden Spielern       	|  -jeder Spieler spielt seinen Zug in der vorher fetsgelegten REihenfolge<br />| Spiel besteht aus Runden|0-unendlich möglich    	|
 |Spieler|   am Spiel teilnehmende Spieler|  -jeder Spieler hat einen Kartenstand und einen Siegpunktestand<br />| benötigt um Runde bzw. Spiel zu spielen|   1-4 |
 |Kartenstand|   Anzahl Spielerkarten eines Spielers           	|  -setzt sich aus Anzahl der Ressourcen ubnd Entwicklungskarten zusammen<br />|-um "Liquidität" eines Spielers darzustellen|   1-130      	|
-|Spielfiguren| -haben eine Form und eine Farbe|  -rote, orangene, blaue, weiße Spiel<br />| benötigt um Runde bzw. Spiel zu spielen|   1-4 |
+|Spielfiguren| -haben eine Form und eine Farbe|  -rote, orangene, blaue, weiße Spielfiguren(Straßen, Städte, Siedlungen)<br />-schwarze Ritterfigur| benötigt um Runde bzw. Spiel zu spielen|  -4 Städte, 5 Siedlungen, 15 Straßen |
