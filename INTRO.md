@@ -13,7 +13,7 @@
 
 > **Ziel des Spiels**: Siedlungen bauen und erweitern, um die meisten Siegpunkte zu sammeln, um das Spiel somit gewinnen zu können.
 
-![](https://www.catan.de/sites/default/files/2021-06/CATAN_3D_board.jpg)
+![](https://www.catan.de/sites/default/files/2021-06/CATAN_3D_board.jpg
 ### Spielregeln
 - Der **älteste** Spieler beginnt, danach geht es im **Uhrzeigersinn** weiter
 - Ein Zug besteht aus **4** Teilen, die eine **festgelegte** Reihenfolge haben:
