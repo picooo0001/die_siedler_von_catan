@@ -11,4 +11,4 @@ The repo consists of following elements:
   - SEQUENCE_DIAGRAM
 - LICENSE
 
-by Tom Plieninger, Nico Peuser, Vitaly Tischer and Julian Fleischmann
+by Tom Plieninger, Nico Peuser, Vitaly Tischer and Julian Fleischmann.
