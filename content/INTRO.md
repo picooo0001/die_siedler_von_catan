@@ -15,7 +15,7 @@
 
 ![Spielfeld](https://www.catan.de/sites/default/files/2021-06/CATAN_3D_board.jpg)
 ### Spielregeln
-- Der **älteste** Spieler beginnt, danach geht es im **Uhrzeigersinn** weiter
+- Der Spieler, der die **höchste Augenzahl** würfelt, beginnt
 - Ein Zug besteht aus **4** Teilen, die eine **festgelegte** Reihenfolge haben:
 	1. **Rohstoffkarten** werden durch das Würfeln mit 2 verschiedenen Würfeln verteilt. Wird insgesamt eine **7** gewürfelt, bekommt niemand eine Rohstoffkarte (**Räuberfigur**). Wer mehr als 7 Rohstoffkarten hat muss die Hälfte (bzw. 3 abgeben)
 	1. Rohstoffe **untereinander** tauschen oder durch den **Seehandel** 4 gleiche Rohstoffe gegen 1 beliebigen eintauschen
