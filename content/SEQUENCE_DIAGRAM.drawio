@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T08:58:09.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jKIBB4P-2VHVjyAyZhME" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T10:02:01.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bIo2SUKYyHz376CeIELq" version="22.1.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="882" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
           <mxGeometry x="540" y="390" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bg8sVhrmhCOxqNakyaFS-35" value="opt&lt;br&gt;Karten&amp;gt;7" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="210" width="560" height="120" as="geometry" />
+          <mxGeometry x="110" y="198" width="560" height="102" as="geometry" />
         </mxCell>
         <mxCell id="bg8sVhrmhCOxqNakyaFS-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="210" width="10" height="60" as="geometry" />
@@ -104,7 +104,7 @@
             <mxPoint x="270" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-32" value="Augenzahl: 7" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="bg8sVhrmhCOxqNakyaFS-17" target="bg8sVhrmhCOxqNakyaFS-12" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-32" value="1.1 Augenzahl: 7" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="bg8sVhrmhCOxqNakyaFS-17" target="bg8sVhrmhCOxqNakyaFS-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="170" as="sourcePoint" />
             <mxPoint x="190" y="170" as="targetPoint" />
@@ -116,13 +116,13 @@
         <mxCell id="bg8sVhrmhCOxqNakyaFS-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="620" y="110" width="10" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-40" value="Hälfte Karten abgeben" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="bg8sVhrmhCOxqNakyaFS-39" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-40" value="1.2 Hälfte Karten abgeben" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="bg8sVhrmhCOxqNakyaFS-39" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="620" y="250" as="sourcePoint" />
             <mxPoint x="700" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-49" value="Augenzahl: 7" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="bg8sVhrmhCOxqNakyaFS-17" target="bg8sVhrmhCOxqNakyaFS-34" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-49" value="1.1 Augenzahl: 7" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="bg8sVhrmhCOxqNakyaFS-17" target="bg8sVhrmhCOxqNakyaFS-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="184.64" as="sourcePoint" />
             <mxPoint x="620" y="184.64" as="targetPoint" />
@@ -131,31 +131,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-50" value="Hälfte Karten abgeben" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-50" value="1.2 Hälfte Karten abgeben" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="190" y="250" as="sourcePoint" />
             <mxPoint x="540" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-51" value="Räuberfigur versetzen" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;" parent="1" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-51" value="1.3 Räuberfigur versetzen" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="190" y="269.31" as="sourcePoint" />
-            <mxPoint x="350" y="270" as="targetPoint" />
+            <mxPoint x="190" y="330" as="sourcePoint" />
+            <mxPoint x="350" y="330.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-52" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" parent="1" source="bg8sVhrmhCOxqNakyaFS-12" target="bg8sVhrmhCOxqNakyaFS-34" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-52" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="320" as="sourcePoint" />
-            <mxPoint x="240" y="270" as="targetPoint" />
+            <mxPoint x="190" y="350" as="sourcePoint" />
+            <mxPoint x="620" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="310" />
+              <mxPoint x="410" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-53" value="Karte ziehen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="355" y="288" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-54" value="Augenzahl ungleich 7" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-54" value="1.1 Augenzahl ungleich 7" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="380" as="sourcePoint" />
             <mxPoint x="190" y="380" as="targetPoint" />
@@ -164,7 +161,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-55" value="Augenzahl ungleich 7" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.871;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="bg8sVhrmhCOxqNakyaFS-34" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-55" value="1.1 Augenzahl ungleich 7" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.871;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="bg8sVhrmhCOxqNakyaFS-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="355" y="380" as="sourcePoint" />
             <mxPoint x="615" y="380" as="targetPoint" />
@@ -173,13 +170,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-56" value="Ressourcen ziehen" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-56" value="1.2 Ressourcen ziehen" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="190" y="409.62" as="sourcePoint" />
             <mxPoint x="540" y="409.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-57" value="Ressourcen&lt;br&gt;&amp;nbsp;ziehen" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-57" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;1.2 Ressourcen&lt;br&gt;&amp;nbsp;ziehen&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="620" y="409.62" as="sourcePoint" />
             <mxPoint x="550" y="409.62" as="targetPoint" />
@@ -191,10 +188,10 @@
         <mxCell id="bg8sVhrmhCOxqNakyaFS-61" value="alt&lt;br&gt;(Augenzahl)" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="55" y="360" width="665" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bg8sVhrmhCOxqNakyaFS-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.011;entryY=-0.227;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="bg8sVhrmhCOxqNakyaFS-53" edge="1">
+        <mxCell id="bg8sVhrmhCOxqNakyaFS-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="880" as="sourcePoint" />
-            <mxPoint x="350" y="330" as="targetPoint" />
+            <mxPoint x="355" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bg8sVhrmhCOxqNakyaFS-67" value="2.4 Rohstoff austauschen" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="bg8sVhrmhCOxqNakyaFS-13" edge="1">
@@ -339,6 +336,9 @@
             <mxPoint x="580" y="480" as="sourcePoint" />
             <mxPoint x="630" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_jMoV66RkvcrfnT22ufl-4" value="1.4 Karte ziehen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="328" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
