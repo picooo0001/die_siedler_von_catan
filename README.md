@@ -7,8 +7,8 @@ The repo consists of following elements:
   - INTRO
   - USECASES
   - DATA_DICTIONARY
-  - CLASS_DIAGRAMM
-  - SEQUENZDIAGRAMM
+  - CLASS_DIAGRAM
+  - SEQUENCE_DIAGRAM
 - LICENSE
 
 by Tom Plieninger, Nico Peuser, Vitaly Tischer and Julian Fleischmann
